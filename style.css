@@ -53,6 +53,9 @@ body {
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
+.nav.active a {
+  color: #000;
+}
  .hero {
 background-image: url(images/office.jpg);
 background-repeat: no-repeat;
