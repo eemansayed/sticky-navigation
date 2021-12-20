@@ -26,6 +26,14 @@ body {
   transition: all 0.3s ease-in-out;
 }
 
+.nav .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  transition: all 0.3s ease-in-out;
+}
+
  .hero {
 background-image: url(images/office.jpg);
 background-repeat: no-repeat;
