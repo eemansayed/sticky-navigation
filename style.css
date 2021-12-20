@@ -41,6 +41,13 @@ body {
   justify-content: center;
 }
 
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 7px 15px;
+  transition: all 0.3s ease-in-out;
+}
+
  .hero {
 background-image: url(images/office.jpg);
 background-repeat: no-repeat;
