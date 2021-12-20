@@ -56,6 +56,10 @@ body {
 .nav.active a {
   color: #000;
 }
+
+.nav.active .container {
+  padding: 10px 0;
+}
  .hero {
 background-image: url(images/office.jpg);
 background-repeat: no-repeat;
